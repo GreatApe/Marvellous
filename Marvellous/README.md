@@ -1,5 +1,3 @@
-# Streetbees iOS developer challenge comments
-
 ## Architecture
 
 My solution uses MVVM with Rx and a coordinator to handle the (in this case trivial) flows. There is also a ComicsProvider that serves and persists the comics.
